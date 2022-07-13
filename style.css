@@ -189,8 +189,7 @@ footer button {
     justify-content: space-between;
     margin-bottom: 3.6rem;
   }
-  #introduction div:first-child {
-  }
+  
   #image {
     flex: 90%;
   }
